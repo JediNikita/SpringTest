@@ -33,6 +33,6 @@
 
   </dependencies>
   <build>
-    <finalName>SPringTest</finalName>
+    <finalName>SpringTest</finalName>
   </build>
 </project>
